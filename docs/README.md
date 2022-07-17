@@ -20,7 +20,7 @@
 ## Introduzione
 
 Benvenuti nella pagina dedicata al servizio di tutorato per studenti DSA del Dipartimento di Informatica.
-Qui potrai trovare il supporto che stavi cercando: informati sugli strumenti che ti possono supportare e non esitare a contattarci.
+Qui potrai trovare il supporto che stavi cercando: informati sugli strumenti più adatti a te e non esitare a contattarci.
 
 ## Strumenti DSA
 
